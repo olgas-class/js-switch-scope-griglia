@@ -8,13 +8,13 @@ const userFruit = "mela";
 //     console.log("Non ho provato questo frutto");
 // }
 
-switch(userFruit) {
-    case "mela":
-        console.log("Mi piace la mela");
-        break;  
-    case "pera":
-        console.log("Anche pera mi piace");
-        break;
-    default: 
-        console.log("Non ho provato questo frutto");
+switch (userFruit) {
+  case "mela":
+    console.log("Mi piace la mela");
+    break;
+  case "pera":
+    console.log("Anche pera mi piace");
+    break;
+  default:
+    console.log("Non ho provato questo frutto");
 }
